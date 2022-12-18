@@ -1,2 +1,13 @@
 variable "project_name" {}
 variable "environment" {}
+variable "vpc_name" {}
+variable "cidr" {} 
+variable "azs1" {}
+variable "azs2" {}
+variable "azs3" {}
+variable "Private-1a" {}
+variable "Private-1b" {}
+variable "Private-1c" {}
+variable "Public-1a" {}
+variable "Public-1b" {}
+variable "Public-1c" {}
