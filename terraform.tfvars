@@ -1,7 +1,7 @@
 project_name = "AM"
 environment = "dev"
 vpc_name = "am-dev"
-cidr = "10.248.31.0/24" 
+cidr = "10.248.0.0/16" 
 azs1 = "eu-west-1a"
 azs2 = "eu-west-1b"
 azs3 = "eu-west-1c"
