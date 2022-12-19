@@ -16,6 +16,6 @@ module "vpc" {
     Terraform = "true"
     Environment = var.environment
     project_name = var.project_name
-    vpc_name = var.vpc_name #am-dev
+    vpc_name = var.vpc_name #am-uat
   }
 }
