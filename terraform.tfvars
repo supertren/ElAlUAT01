@@ -1,7 +1,7 @@
 project_name = "AM"
 environment = "uat"
 vpc_name = "am-uat"
-cidr = "10.248.0.0/16" 
+cidr = "10.249.0.0/16" 
 azs1 = "us-east-1a"
 azs2 = "us-east-1b"
 azs3 = "us-east-1c"
