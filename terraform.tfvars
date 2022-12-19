@@ -1,6 +1,6 @@
 project_name = "AM"
-environment = "dev"
-vpc_name = "am-dev"
+environment = "uat"
+vpc_name = "am-uat"
 cidr = "10.248.0.0/16" 
 azs1 = "us-east-1a"
 azs2 = "us-east-1b"
